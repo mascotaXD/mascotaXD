@@ -1,2 +1,3 @@
-- 👋 Hi, I’m mascotaXD 
-- 👀 I’m an average npc
+hello fellow visitor, 
+
+welcome to my maybe empty profile
