@@ -1,10 +1,8 @@
-# Programa que evalua una nota usando if, elif y else
+# Programa que evalua una nota
 
 nota = float(input("Ingresa tu nota: "))
 
-if nota > 11:
-    print("Aprobaste")
-elif nota == 11:
-    print("Estas justo en 11, revisa con tu profesor si aprobaste")
-else:
+if nota < 11:
     print("Desaprobaste")
+else:
+    print("Aprobaste")
